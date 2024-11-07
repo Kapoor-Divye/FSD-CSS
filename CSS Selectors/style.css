@@ -1,0 +1,104 @@
+/* a[target="_top"]{
+    background-color: yellow;
+}
+a[target="_blank"]{
+    background-color: pink;
+}
+a[target="_parent"]{
+    background-color: yellowgreen;
+}
+.class1 .class2{
+    background-color: aqua;
+}
+.class1.class2{
+    background-color: antiquewhite;
+}
+body{
+    background-color: orange;
+}
+p{
+    background-color: orange;
+
+}
+div p{
+    background-color: aqua;
+    border: 10px;
+    border-color: 10px solid currentColor;
+}
+div>a{
+    background-color: red;
+    border: 10px;
+    border-color: 10px solid currentColor;
+} */
+
+/* div[data-color]{
+    color: red;
+} */
+
+/* div[data-color="red"]{
+    color: red;
+} */
+
+/* div[class*="foo"] {
+    color: red;
+} */
+
+/* div[class~="red"] {
+    color: red;
+} */
+
+/* div[class^="foo-"] {
+    color: red;
+} */
+
+/* div[class$="foo-"] {
+    color: red;
+} */
+
+/* div span{
+    color: red;
+} */
+
+/* div>span{
+    color: red;
+} */
+
+/* div a~span{
+    color: red;
+} */
+
+/* div p+p{
+    color: red;
+} */
+
+/* .important{
+    color: orange;
+}
+
+.warning{
+    color: blue;
+}
+
+.important.warning{
+    color: red;
+} */
+
+/* #id1{
+    color: blue;
+}
+
+#id2{
+    color: red;
+} */
+
+/* p:last-of-type{
+    background-color: orange;
+}
+
+h1:last-of-type{
+    background-color: red;
+} */
+
+/* input:in-range{
+    border: 1px solid blue;
+} */
