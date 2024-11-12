@@ -1,0 +1,47 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aqua;
+}
+
+#div1 {
+    margin: 10px auto;
+    padding: 5px;
+    background-color: orange;
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#pdiv{
+    background-color: brown;
+}
+
+#div2{
+    margin: 10px auto;
+    padding: 5px;
+    background: inherit;
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#div3{
+    margin: 10px auto;
+    padding: 5px;
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    background-image: url(./Resources/img1.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+} */
